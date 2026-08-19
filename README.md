@@ -66,4 +66,3 @@ I work at the intersection of **artificial intelligence and cybersecurity**, des
   <a href="https://www.linkedin.com/in/daniel-l%C3%A1zaro-rubio-055571266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<sub> Tip: this README lives in a repo named <code>dmclazaro01/dmclazaro01</code> so it shows on your profile.</sub>
