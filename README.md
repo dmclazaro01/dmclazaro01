@@ -50,15 +50,6 @@ I work at the intersection of **artificial intelligence and cybersecurity**, des
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dmclazaro01&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmclazaro01&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</p>
-
----
-
 ### 📫 Connect
 
 <p align="left">
