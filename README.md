@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ciberseguridad@air-institute.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:dmclazaro@usal.es"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Security-6E40C9?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Spain-red?style=flat-square" alt="Location">
 </p>
